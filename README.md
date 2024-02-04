@@ -15,7 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-https://imgflip.com/gif/8emkoz
+[https://imgflip.com/gif/8emkoz
+](https://imgur.com/a/BuD3B5c)
 
 ## App Brainstorming (Step 4)
 
