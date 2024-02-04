@@ -4,7 +4,7 @@ Submitted by: Heeba Eddouh
 
 Prework IOS101 is an app that has a few labels about me, as well as change colors when the button is clicked.
 
-Time spent: 3 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
