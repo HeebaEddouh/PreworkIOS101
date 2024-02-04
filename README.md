@@ -4,7 +4,7 @@ Submitted by: Heeba Eddouh
 
 Prework IOS101 is an app that has a few labels about me, as well as change colors when the button is clicked.
 
-Time spent: 1 hour spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -22,17 +22,26 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 Discord
+
 -The ability to edit messages and have a note saying that it was previously edited.
+
 -The ability to remove/unsend messages without a notification.
+
 -The ability to switch from dark/light mode
 
+
 Instagram
+
 -The ability to have 'seen' when messages are opened
+
 -The ability to switch from dark/light mode
 
 TikTok
+
 -The ability to turn on 'viewer' mode so others can see you looked at their profile, vice versa
+
 -The ability to private, or archive, posts
+
 -The ability to have liked, saved, and favorited posts
 
 An app I would like to build ia one that chooses a hobby for you. The user will implement interests, risk levels, past experiences, etc. and the system will automate a new hobby to try! Features I'd implement is are pages about diverse hobbies, an aesthetic for each one, and many more. Favorited pages will result in a higher chance of receiving a hobby similar it.
